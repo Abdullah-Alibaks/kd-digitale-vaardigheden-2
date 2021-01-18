@@ -11,7 +11,7 @@ Aan de hand van de resultaten kun je zien welke hoofdstukken je nog moet oefenen
 2. Ga naar het tabblad [Rapport - 0-metingen en toetsen](https://digit-mbo.nl/student/results/toetsen/1/).
 3. Klik op de toets oefentoets KT2 gev 1-8 om de resultaten van je toets te bekijken per hoofdstuk.
 
-   - ![kies de eerste oefentoets](./images/hoofdstukken.PNG)
+   - ![kies de eerste oefentoets](images/hoofdstukken.PNG)
 
 4. Kijk voor welke hoofdstukken je een onvoldoende hebt en noteer dit op een blaadje.
 5. Ga naar de [home pagina](https://digit-mbo.nl/student/home/).

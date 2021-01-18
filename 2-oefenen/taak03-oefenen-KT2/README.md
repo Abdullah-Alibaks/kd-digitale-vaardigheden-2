@@ -11,11 +11,11 @@ Heb je dit niet gedaan doe dan taak 2 nog een keer.
 2. Ga naar de [home pagina](https://digit-mbo.nl/student/home/).
 3. Klik op de tegel Kerntaak 2.
 
-   - ![Tegel kerntaak 2](./images/kerntaak2.PNG)
+   - ![Tegel kerntaak 2](images/kerntaak2.PNG)
 
 4. Maak de hoofdstukken waar je een onvoldoende voor had (klik op het hoofdstuk).
 
-![Hoofdstukken kerntaak 2](./images/hoofdstukken.PNG)
+![Hoofdstukken kerntaak 2](images/hoofdstukken.PNG)
 
 ## Leerdoelden
 
